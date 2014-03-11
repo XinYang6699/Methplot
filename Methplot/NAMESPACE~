@@ -1,5 +1,0 @@
-S3method(plot,data)
-export(getdata)
-import(ggplot2)
-import(grid)
-import(reshape)
